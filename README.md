@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hej där!🌸
 
-<!--
-**saralagerquist1/saralagerquist1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mitt namn är Sara,** och jag är webbutvecklingsstudent vid Mittuniversitetet. Som både nyfiken och kreativ kommer jag under dessa två år att dela med mig av mina olika projekt här, och förhoppningsvis kommer min utveckling att synas tydligt längs vägen. Jag ser fram emot att utforska nya tekniker, utmana mig själv och fortsätta utvecklas – one project at a time!👩‍🎓
 
-Here are some ideas to get you started:
+## - Utbildning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Som nämnt innan studerar jag webbutveckling hos Mittuniversitetet på distans, där jag för några veckor framåt kommer gå kursen _Introduktion till webbutveckling med HTML, CSS och Javascript_.
+
+## - Kontakt
+Behöver ni nå mig, kan ni gör det här:  
+
+**Sara Lagerquist**
+* sala2606@student.miun.se
+* sara.lagerquist22@gmail.com
